@@ -26,7 +26,6 @@
 
 > You can support me by inviting Blade! 1 Invite helps me alot! Make sure your server have 30+ members!
 
-[Blade]https://discord.com/api/oauth2/authorize?client_id=932915599141662840&permissions=2113268983&scope=bot%20applications.commands)
-# Credits
+[Blade](https://discord.com/api/oauth2/authorize?client_id=932915599141662840&permissions=2113268983&scope=bot%20applications.commands)
 
 > Thank you so much for using this code. Make sure to credit me!
